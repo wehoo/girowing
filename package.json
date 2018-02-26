@@ -1,0 +1,22 @@
+{
+  "name": "giraph",
+  "version": "1.0.0",
+  "description": "A simple graph tool for weather data. For >>Girls<<.",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "coffee-script": "latest",
+    "del": "latest",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "latest",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-csvtojson": "latest",
+    "gulp-insert": "latest",
+    "gulp-notify": "latest",
+    "gulp-rename": "latest",
+    "gulp-replace": "latest",
+    "gulp-sass": "latest"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
